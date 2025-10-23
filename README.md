@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 مرحبا، আমি নবদ্বীপ দেবনাথ (Nobodip Debnath)
+# 👋 Hi, I'm Nobodip Debnath
 
-### একজন সৃজনশীল ফ্রন্টএন্ড ওয়েব ডেভেলপার
+### A Creative Frontend Web Developer
 
-<p>ডিজিটাল জগৎকে সুন্দর এবং ব্যবহারকারী-বান্ধব করার লক্ষ্যে আমি কোড করি। বর্তমানে Next.js এবং আধুনিক ওয়েব প্রযুক্তিতে আমার দক্ষতা বাড়াচ্ছি।</p>
+<p>I build beautiful and user-friendly digital experiences. Currently diving deep into Next.js and modern web technologies to bring creative ideas to life.</p>
 
 <a href="https://www.linkedin.com/in/nobodip-debnath-676928351" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ | আমার প্রযুক্তি ও টুলস (My Tech Stack & Tools )
+### 🛠️ | My Tech Stack & Tools
 <div align="center">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -31,33 +31,32 @@
 
 ---
 
-### 📊 | আমার GitHub পরিসংখ্যান (My GitHub Stats )
+### 📊 | My GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=আপনার-ইউজারনেম&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nobodipdebnath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nobodip's GitHub Stats">
       
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=আপনার-ইউজারনেম&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobodipdebnath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
 ---
 
-### 🏆 | আমার সেরা প্রোজেক্ট (My Pinned Projects )
+### 🏆 | My Pinned Projects
 <div align="center">
 
-<!-- এখানে আপনার পিন করা প্রোজেক্টগুলো দেখানোর জন্য কোড যোগ করতে পারেন -->
-<!-- উদাহরণ: -->
-<a href="আপনার-প্রোজেক্ট-লিংক" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=আপনার-ইউজারনেম&repo=আপনার-রিপোজিটরির-নাম&theme=tokyonight" /></a>
-<a href="আপনার-অন্য-প্রোজেক্ট-লিংক" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=আপনার-ইউজারনেম&repo=আপনার-অন্য-রিপোজিটরির-নাম&theme=tokyonight" /></a>
+<!-- Replace 'repo-name-1' and 'repo-name-2' with your actual repository names -->
+<a href="https://github.com/nobodipdebnath/repo-name-1" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=repo-name-1&theme=tokyonight" /></a>
+<a href="https://github.com/nobodipdebnath/repo-name-2" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=repo-name-2&theme=tokyonight" /></a>
 
 </div>
 
-**বিশেষ দ্রষ্টব্য:** উপরের অংশে `আপনার-ইউজারনেম` এবং `আপনার-রিপোজিটরির-নাম` পরিবর্তন করে আপনার নিজের প্রোজেক্টের পিন করা কার্ড যোগ করতে পারবেন।
+**Note:** To make the project cards appear, go to your GitHub profile, pin your best repositories, and then replace `repo-name-1` and `repo-name-2` in the code above with their names.
 
 ---
 
-### 📈 | আমার সাপ্তাহিক কোডিং অ্যাক্টিভিটি (My Weekly Coding Activity )
+### 📈 | My Weekly Coding Activity
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=আপনার-ইউজারনেম&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobodipdebnath&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
 ---
@@ -65,8 +64,8 @@
 <div align="center">
     <h3>
         <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" alt="Connect">
-        আমার সাথে যোগাযোগ করুন
+        Get In Touch
     </h3>
-    <p>যেকোনো ধরনের সহযোগিতা বা আলোচনার জন্য আমার সাথে যোগাযোগ করতে পারেন।</p>
-    <a href="mailto:আপনার-ইমেইল@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <p>Feel free to reach out for collaborations or just a friendly chat!</p>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
