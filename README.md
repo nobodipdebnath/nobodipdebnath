@@ -44,13 +44,10 @@
 ### 🏆 | My Pinned Projects
 <div align="center">
 
-<!-- Replace 'repo-name-1' and 'repo-name-2' with your actual repository names -->
-<a href="https://github.com/nobodipdebnath/repo-name-1" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=repo-name-1&theme=tokyonight" /></a>
-<a href="https://github.com/nobodipdebnath/repo-name-2" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=repo-name-2&theme=tokyonight" /></a>
+<a href="https://github.com/nobodipdebnath/react-project-01" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=react-project-01&theme=tokyonight" /></a>
+<a href="https://github.com/nobodipdebnath/Swift-Express-Cargo" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=Swift-Express-Cargo&theme=tokyonight" /></a>
 
 </div>
-
-**Note:** To make the project cards appear, go to your GitHub profile, pin your best repositories, and then replace `repo-name-1` and `repo-name-2` in the code above with their names.
 
 ---
 
