@@ -1,4 +1,4 @@
-# Hi there, I'm Nobodip Debnath👋
+<div aling ='center'>Hi there, I'm Nobodip Debnath👋</div>
 
 ## 🚀 A Passionate MERN Stack Developer from Bangladesh
 
