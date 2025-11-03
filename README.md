@@ -1,68 +1,86 @@
+# Hi there, I'm Md. Abib Ahmed Dipto 👋
+
+## 🚀 A Passionate MERN Stack Developer from Bangladesh
+
 <div align="center">
-
-# 👋 Hi, I'm Nobodip Debnath
-
-### A Creative Frontend Web Developer
-
-<p>I build beautiful and user-friendly digital experiences. Currently diving deep into Next.js and modern web technologies to bring creative ideas to life.</p>
-
-<a href="https://www.linkedin.com/in/nobodip-debnath-676928351" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.facebook.com/profile.php?id=61554300737206" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-
+    <img src="https://github.com/sultan93291/sultan93291/blob/main/Desktop/Blog-App/vite-project/public/js.gif" alt="My GIF" width="100%" height="auto" />
 </div>
+
+🔭 I’m currently working on the backend for [FrApp](https://github.com/sultan93291/itsjacks.git)  
+🤝 I'm looking for help with my [FastAPI Learning](https://github.com/sultan93291/fastapi_prac)  
+
+🌱 Currently learning **FastAPI** to level up my backend development skills  
+
+💬 Ask me anything about **React, Node.js, Express, MongoDB, and Python**  
+
+👨‍💻 Check out all my projects on [My Portfolio](https://abib-portfolio.vercel.app/)  
+
+⚡ **Fun Fact:** I love biking and traveling when I’m away from the keyboard!  
 
 ---
 
-### 🛠️ | My Tech Stack & Tools
-<div align="center">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-    <img src="https://img.shields.io/badge/Pixso-black?style=for-the-badge&logo=pixso&logoColor=white" alt="Pixso">
-</div>
+## 🌐 Connect with Me:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sanjar095) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sultan_ahmed_sanjar_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-abib-ahmed-dipto-0ab5b1298/) 
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27643479/md-abib-ahmed-dipto) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@sultan708976) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sultan93291)
 
 ---
 
-### 📊 | My GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nobodipdebnath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Nobodip's GitHub Stats">
-      
+## 🛠️ Tech Stack:
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobodipdebnath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
+**Languages**:  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend**:  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+**Backend**:  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
+**Tools & Platforms**:  
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
+![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### 🏆 | My Pinned Projects
-<div align="center">
+## 📊 GitHub Stats:
 
-<a href="https://github.com/nobodipdebnath/react-project-01" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=react-project-01&theme=tokyonight" /></a>
-<a href="https://github.com/nobodipdebnath/Swift-Express-Cargo" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nobodipdebnath&repo=Swift-Express-Cargo&theme=tokyonight" /></a>
+![](https://github-readme-stats.vercel.app/api?username=sultan93291&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sultan93291&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sultan93291&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
----
-
-### 📈 | My Weekly Coding Activity
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobodipdebnath&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph">
-</div>
+### 🔝 Top Contributed Repos:
+![](https://github-contributor-stats.vercel.app/api?username=sultan93291&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-<div align="center">
-    <h3>
-        <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" alt="Connect">
-        Get In Touch
-    </h3>
-    <p>Feel free to reach out for collaborations or just a friendly chat!</p>
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=sultan93291&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
