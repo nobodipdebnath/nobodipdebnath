@@ -61,7 +61,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=nobodipdeb&show_icons=true&theme=tokyonight](https://github-readme-stats.vercel.app/api?username=nobodipdebnath)" alt="Nobodip's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nobodipdebnath" alt="Nobodip's GitHub stats" />
 </p>
 
 <p align="center">
