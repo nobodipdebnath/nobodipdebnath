@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobodipdeb&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobodipdebnath&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
