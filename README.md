@@ -44,13 +44,6 @@
 
 ---
 
-### 🌐 আমার সাথে যোগাযোগ
-
-📧 **Email:** nobodipdebnath45@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/nobodipdeb](#)  
-🌍 **Portfolio:** [nobodipdeb.vercel.app](#)  
-
----
 
 <p align="center">
 ✨ "Every line of code is a step towards something amazing." ✨
