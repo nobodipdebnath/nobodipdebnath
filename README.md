@@ -10,19 +10,29 @@
 💻 Fontend Web Developer | MERN Stack | Passionate Learner  
 </p>
 ### 📊 GitHub Stats
+<!-- 🌟 Nobodip Debnath's GitHub Overview 🌟 -->
 <table align="center">
+  <!-- 🔹 প্রথম সারি -->
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=nobodipdebnath&show_icons=true&theme=tokyonight" alt="Nobodip's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=nobodipdebnath&show_icons=true&theme=tokyonight&hide_border=true" alt="Nobodip's GitHub stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobodipdebnath&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobodipdebnath&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+
+  <!-- 🔹 দ্বিতীয় সারি -->
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobodipdebnath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobodipdebnath&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nobodipdebnath&theme=tokyonight&hide_border=true" alt="Repos per Language" />
     </td>
   </tr>
 </table>
+
 
 ---
 ### 🌐 আমার সাথে যোগাযোগ
