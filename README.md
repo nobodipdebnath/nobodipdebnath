@@ -25,7 +25,7 @@
   <!-- 🔹 দ্বিতীয় সারি -->
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobodipdebnath&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobodipdebnath&theme=tokyo-night" alt="Top Languages" />
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nobodipdebnath&theme=tokyonight&hide_border=true" alt="Repos per Language" />
