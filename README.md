@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hello I'm <span style="color:#00bfff;">Nobodip Debnath</span></h1>
 
 <div align="center">
-    <img src="https://github.com/sultan93291/sultan93291/blob/main/Desktop/Blog-App/vite-project/public/js.gif" alt="My GIF" width="100%" height="auto" />
+    <img src="https://i.ibb.co.com/YBJKtQd3/js.gif" alt="My GIF" width="100%" height="auto" />
 </div>
 <p align="center">
 💻 Fontend Web Developer | MERN Stack | Passionate Learner  
