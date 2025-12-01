@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hello I'm <span style="color:#00bfff;">Nobodip Debnath</span></h1>
 
 <p align="center">
-💻 Fontend Web Developer | MERN Stack | Passionate Learner  
+💻 Frontend Web Developer | MERN Stack | Passionate Learner  
 </p>
 
 ### 📊 GitHub Stats
