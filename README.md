@@ -7,7 +7,7 @@
 💻 Frontend web Developer | MERN Stack | Passionate Learner  
 </p>
 
-### 📊 GitHub  Stats
+### 📊 GitHub Stats
 
 <table align="center">
   <!-- 🔹 প্রথম সারি -->
