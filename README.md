@@ -1,7 +1,7 @@
 
 
 ## 🚀 A Passionate MERN Stack Developer from Bangladesh
-<h1 align="center">👋 Hello I'm <span style="color:#00bfff;">Nobodip Debnath 😈</span></h1>
+<h1 align="center">👋 Hello I'm <span style="color:#00bfff;">Nobodip Debnath 😈😇</span></h1>
 
 <p align="center">
 💻 Frontend web Developer | MERN Stack | Passionate Learner  
