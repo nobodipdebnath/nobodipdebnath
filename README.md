@@ -9,7 +9,7 @@
 
 ### 📊 GitHub Stats
 
-<table  align="center">
+<table align="center">
   <!-- 🔹 প্রথম সারি -->
   <tr>
     <td align="center">
