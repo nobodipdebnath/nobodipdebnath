@@ -1,54 +1,69 @@
-# Nobodip Debnath
-### MERN Stack Web Developer | Frontend Focused
+## 🚀 A Passionate MERN Stack Developer from Bangladesh
 
-I am a passionate and dedicated MERN Stack Web Developer from Bangladesh.  
-I specialize in building responsive, scalable, and user-friendly web applications.  
-I enjoy learning new technologies, writing clean code, and solving real-world problems.
-
----
-
-## Technical Skills
-
-### Frontend
-- HTML5, CSS3, Tailwind CSS
-- JavaScript (ES6+)
-- React.js
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-
-### Tools & Platforms
-- Git & GitHub
-- Firebase
-- VS Code
-- REST API
-
----
-
-## GitHub Statistics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=nobodipdebnath&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobodipdebnath&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<br/>
+<h1 align="center">
+👋 Hello I'm <span style="color:#00bfff;">Nobodip Debnath 😈</span>
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobodipdebnath&layout=compact&theme=tokyonight&hide_border=true" />
+💻 Frontend Web Developer | MERN Stack | Passionate Learner  
 </p>
 
 ---
 
-## Contribution Activity
+## 🛠️ Skills & Technologies
+
+<p align="center">
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=nobodipdebnath&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nobodipdebnath&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobodipdebnath&layout=compact&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nobodipdebnath&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌱 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nobodipdebnath&theme=tokyo-night" />
@@ -56,19 +71,13 @@ I enjoy learning new technologies, writing clean code, and solving real-world pr
 
 ---
 
-## Currently Focused On
-- Advanced React patterns and optimization
-- Secure authentication (JWT, Firebase Auth)
-- Backend architecture for scalable applications
-- Improving code quality and best practices
+## 📌 Currently Learning
+- Advanced React & Performance Optimization  
+- Backend Security & Authentication (JWT)  
+- Building Scalable MERN Applications  
 
 ---
 
-## Professional Goal
-
-To work in a collaborative development environment where I can grow as a developer,  
-contribute to impactful projects, and continuously improve my technical skills.
-
----
-
-> *"Clean code, continuous learning, and meaningful impact."*
+<p align="center">
+✨ <i>"Every line of code is a step towards something amazing."</i> ✨
+</p>
